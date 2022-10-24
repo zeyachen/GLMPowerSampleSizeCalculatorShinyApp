@@ -9,5 +9,6 @@ Copyright 2021 Zeya Chen, Osvaldo Espin-Garcia
 
 ![alt text](https://github.com/zeyachen/GLMPowerSampleSizeCalculatorShinyApp/blob/main/bfb6f084a0cc0319383f87b62841a4c.png)
 
-Reference
-![alt text](https://github.com/zeyachen/GLMPowerSampleSizeCalculatorShinyApp/blob/main/Reference.jpg)
+References
+
+![alt text](https://github.com/zeyachen/GLMPowerSampleSizeCalculatorShinyApp/blob/main/reference.jpg)
