@@ -1,7 +1,7 @@
 # GLM Power Sample Size Calculator ShinyApp
 Visualization of Score/LRT based Power Calculator for Generalized Linear Models via Shiny App.
 
-App link: https://desmondzeyachen.shinyapps.io/scorelrtglmpowersamplesizeshinyapp/
+App link: https://desmondzeyachen.shinyapps.io/GLMPowerSampleSizeShinyApp/
 
 Copyright 2021 Zeya Chen, Osvaldo Espin-Garcia
 
